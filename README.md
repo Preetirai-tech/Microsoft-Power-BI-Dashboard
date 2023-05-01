@@ -1,3 +1,3 @@
-# PowerBI-case-study
+# PowerBI Project
 
-Extract and presented actionable insights for SN Corporation.
+Extracted and presented actionable insights for SN Corporation.
